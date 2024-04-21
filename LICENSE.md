@@ -1,10 +1,11 @@
 Copyright Extex101, Minetest_Game Contributors
 
 Files changed:
- - Metal blocks (default, moreores, technic)
- - Iron Ingots contain samples of color from the original textures but are otherwise original
- - Reduced colour count on: Mese/Diamond items, Mesecons Speaker, cotton
- - Adding shading to ores in stone blocks
+ - Metal blocks. (default, moreores, technic)
+ - Iron Ingots contain samples of color from the original textures but are otherwise original.
+ - Reduced colour count on: Mese crystal, Diamond, Mesecons Speaker, Cotton.
+ - Added shading to ores in stone blocks.
+ - Improved shading on TNT block and stick.
 
 Attribution-ShareAlike 4.0 International
 
